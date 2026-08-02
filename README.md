@@ -1,23 +1,14 @@
 # Hi 👋
 
-I'm an Informatics student passionate about software engineering and full-stack web development.
-
-🚀 Currently building **PersonalSpace** — an all-in-one personal productivity platform.
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img
+    src="https://github-readme-stats.vercel.app/api?username=Lentodu&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Lentodu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
   />
 </p>
-
----
-
-## 🔥 Streak Stats
 
 <p align="center">
   <img
@@ -27,11 +18,8 @@ I'm an Informatics student passionate about software engineering and full-stack 
 
 ---
 
-## 💻 Most Used Languages
+## 🛠 Tools & Technologies
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lentodu&layout=compact&theme=tokyonight&hide_border=true"
-  />
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,tailwind,prisma,supabase,postgres,mysql,dart,flutter,python,git,github,vscode" />
 </p>
